@@ -21,3 +21,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PayloadWrapper for easy response handling
 - Full test coverage with RSpec
 - VCR integration for API testing 
+
+## [0.1.1] - 2025-01-XX
+
+### Fixed
+- Fixed error class initialization parameter handling
+- Improved test suite reliability
+- Fixed PayloadWrapper error handling logic
+- All tests now passing (32 examples, 0 failures)
