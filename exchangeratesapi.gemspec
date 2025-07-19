@@ -6,11 +6,11 @@ Gem::Specification.new do |spec|
   spec.name = "exchangeratesapi"
   spec.version = ExchangeRatesAPI::VERSION
   spec.authors = ["Mehul Jain"]
-  spec.email = ["mehul@example.com"]
+  spec.email = ["mehuljain160@gmail.com"]
 
   spec.summary = "Ruby client for the Exchange Rates API"
   spec.description = "A simple and efficient Ruby client for the Exchange Rates API (exchangeratesapi.io)"
-  spec.homepage = "https://github.com/mehul/exchangeratesapi"
+  spec.homepage = "https://github.com/mehul-jain1/exchangeratesapi"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
